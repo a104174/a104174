@@ -15,8 +15,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=a104174&show_icons=true&theme=dracula" alt="Stats" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a104174&layout=compact&theme=dracula" alt="Top Langs" width="300"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a104174&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎮 Featured Projects
 
@@ -32,14 +31,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![API](https://img.shields.io/badge/-API%20Integration-green)
 > Currency converter with real-time updates
 
-## 📊 Recent Activity
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a104174&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🌐 Connect With Me
-<a href="https://linkedin.com/in/heldercruz30" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/hcruz30" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heldercruz30)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hcruz30)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hcruzz._/)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=portfolio&logoColor=white)](https://a104174.github.io/my-links/)
 
 ## 📫 How to Reach Me
 ✉️ Email: a104174@uminho.pt  
 💬 Discord: l1tren  
-
