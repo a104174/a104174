@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hélder!
 
 💻 Full-Stack Developer | Software Engineering Student at University of Minho  
-🌍 Portugal  
 🚀 Passionate about games, web development and creative projects  
 
 ## 🛠️ Tech Stack
