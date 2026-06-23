@@ -1,41 +1,49 @@
-# 👋 Hi, I'm Hélder!
+<div align="center">
+  <h1>Hélder Cruz</h1>
+  <p><b>Software Engineer</b></p>
+  <p>Building software that works. Clean interfaces, reliable backend architectures, and real-world solutions.</p>
+  <br>
+  <a href="https://linkedin.com/in/heldercruz30">LinkedIn</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="mailto:a104174@uminho.pt">Email</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://x.com/hcruz30">Twitter</a>
+</div>
 
-💻 Full-Stack Developer | Software Engineering Student at University of Minho  
-🚀 Passionate about games, web development and creative projects  
+<br>
 
-## 🛠️ Tech Stack
+### 💻 Engineering Focus
+I am a Computer Engineering graduate from Universidade do Minho, specializing in full-stack web development. My approach to software engineering goes beyond writing code: I prioritize architectural design before execution, human-driven functionality, and building highly reliable systems tailored for real-world constraints.
 
-### Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a104174&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack
+* **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+* **Backend & Data:** Node.js, PostgreSQL, Supabase, REST APIs
+* **Languages:** TypeScript, JavaScript, Python, C, C++, SQL
+* **Infrastructure & Tools:** Git, Docker, Vercel, Cloudflare, Figma
 
-## 🎮 Featured Projects
+---
 
-### [Cosmic Bongo Blitz](https://github.com/a104174/cosmic-bongo-blitz)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![GameDev](https://img.shields.io/badge/-Game%20Development-blueviolet)
-> Space arcade mini-game. Control your ship, defeat enemies and survive as long as possible!
+### 🚀 Selected Client Work
+I design and develop digital products from the ground up, turning complex business needs into clean, functional software.
 
-### [Hairstyle Website](https://github.com/a104174/hairstyle)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Web Design](https://img.shields.io/badge/-Web%20Design-ff69b4)
-> Professional website for hairstylist Paula Peixoto (in development)
+* **Casa Benfica Lenzburg:** A comprehensive digital ecosystem featuring public-facing interfaces and custom backoffice systems for reservations, events, billing, and membership management.
+* **XV Studio:** A tailored digital agency website designed with specific visual direction and seamless, guided contact flows.
+* **HAUSB:** Complete digital identity and web development combining structural brand messaging with clean frontend engineering.
 
-### [Currency Converter](https://github.com/a104174/currency-converter)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![API](https://img.shields.io/badge/-API%20Integration-green)
-> Currency converter with real-time updates
+<br>
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heldercruz30)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hcruz30)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hcruzz._/)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=portfolio&logoColor=white)](https://a104174.github.io/my-links/)
+### 🧪 Lab & Open Source
+* [**Cosmic Bongo Blitz**](https://github.com/a104174/cosmic-bongo-blitz) — Space arcade mini-game focused on game loop logic and event handling.
+* [**Hairstyle Platform**](https://github.com/a104174/hairstyle) — Professional service website built with TypeScript.
+* [**Currency Converter**](https://github.com/a104174/currency-converter) — Real-time utility tool leveraging external API integrations.
 
-## 📫 How to Reach Me
-✉️ Email: a104174@uminho.pt  
-💬 Discord: l1tren  
+---
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a104174&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=555555&icon_color=111111" alt="Top Languages" />
+  <br>
+  <i>"Useful software starts with understanding people."</i>
+</div>
