@@ -18,12 +18,20 @@
 
 <br>
 
+<div align="center">
+  <img src="./assets/engineering-banner.svg" alt="Animated engineering banner" width="900" />
+</div>
+
+<br>
+
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23888888" width="22" /> Engineering Focus
+
 I am a Computer Engineering graduate from Universidade do Minho, specializing in full-stack web development. My approach to software engineering goes beyond writing code: I prioritize architectural design before execution, human-driven functionality, and building highly reliable systems tailored for real-world constraints.
 
 ---
 
 ### <img src="https://api.iconify.design/lucide:layers.svg?color=%23888888" width="22" /> Tech Stack
+
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 * **Backend & Data:** Node.js, PostgreSQL, Supabase, REST APIs
 * **Languages:** TypeScript, JavaScript, Python, C, C++, SQL
@@ -32,6 +40,7 @@ I am a Computer Engineering graduate from Universidade do Minho, specializing in
 ---
 
 ### <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23888888" width="22" /> Selected Client Work
+
 I design and develop digital products from the ground up, turning complex business needs into clean, functional software.
 
 * **Casa Benfica Lenzburg:** A comprehensive digital ecosystem featuring public-facing interfaces and custom backoffice systems for reservations, events, billing, and membership management.
@@ -41,6 +50,7 @@ I design and develop digital products from the ground up, turning complex busine
 <br>
 
 ### <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%23888888" width="22" /> Lab & Open Source
+
 * [**Cosmic Bongo Blitz**](https://github.com/a104174/cosmic-bongo-blitz) — Space arcade mini-game focused on game loop logic and event handling.
 * [**Hairstyle Platform**](https://github.com/a104174/hairstyle) — Professional service website built with TypeScript.
 * [**Currency Converter**](https://github.com/a104174/currency-converter) — Real-time utility tool leveraging external API integrations.
