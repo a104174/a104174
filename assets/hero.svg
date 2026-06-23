@@ -1,0 +1,141 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Filtro de Brilho Super Subtil para a Luz dos Dados -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      /* Fundo e Estrutura */
+      .bg { fill: #0a0a0a; stroke: #1a1a1a; stroke-width: 1; }
+      .divider { stroke: #1a1a1a; stroke-width: 1; }
+
+      /* Tipografia do Código (Lado Esquerdo) */
+      .code-num { fill: #333; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; }
+      .code-kw { fill: #555; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; }
+      .code-key { fill: #888; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; }
+      .code-val { fill: #fff; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; font-weight: 500; }
+      .code-punct { fill: #444; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; }
+      
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+      /* Diagrama de Arquitetura (Lado Direito) */
+      .path-line { stroke: #222; stroke-width: 1.5; fill: none; stroke-linejoin: round; }
+      .packet { stroke: #fff; stroke-width: 1.5; fill: none; stroke-linecap: round; filter: url(#glow); }
+
+      /* Animação do Fluxo de Dados */
+      .p1 { stroke-dasharray: 10 112; animation: flow1 2s linear infinite; }
+      .p2 { stroke-dasharray: 10 145; animation: flow2 2.5s linear infinite; animation-delay: 0.5s; opacity: 0; }
+      .p3 { stroke-dasharray: 10 145; animation: flow3 2.5s linear infinite; animation-delay: 1.5s; opacity: 0; }
+
+      @keyframes flow1 {
+        0% { stroke-dashoffset: 112; opacity: 0; }
+        15% { opacity: 1; }
+        85% { opacity: 1; }
+        100% { stroke-dashoffset: 0; opacity: 0; }
+      }
+      @keyframes flow2 {
+        0% { stroke-dashoffset: 145; opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { stroke-dashoffset: 0; opacity: 0; }
+      }
+      @keyframes flow3 {
+        0% { stroke-dashoffset: 145; opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { stroke-dashoffset: 0; opacity: 0; }
+      }
+
+      /* Nodos do Sistema */
+      .node-bg { fill: #0a0a0a; stroke: #333; stroke-width: 1.5; }
+      .node-core { fill: #fff; filter: url(#glow); animation: pulse-core 3s ease-in-out infinite; }
+      .node-ring { fill: none; stroke: #fff; stroke-width: 1; opacity: 0; transform-origin: 650px 130px; animation: pulse-ring 3s ease-out infinite; }
+      .node-ring-delay { animation-delay: 1.5s; }
+
+      @keyframes pulse-core {
+        0%, 100% { transform: scale(0.9); opacity: 0.8; }
+        50% { transform: scale(1.1); opacity: 1; }
+      }
+      @keyframes pulse-ring {
+        0% { transform: scale(0.6); opacity: 0.5; }
+        100% { transform: scale(2.2); opacity: 0; }
+      }
+
+      .label { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 9px; fill: #666; font-weight: 600; letter-spacing: 0.1em; }
+    </style>
+  </defs>
+
+  <!-- Fundo Estilo Terminal Premium -->
+  <rect x="1" y="1" width="898" height="258" rx="16" class="bg"/>
+
+  <!-- Botões Estilo macOS (Minimalistas/Dark) -->
+  <circle cx="24" cy="24" r="4" fill="#2a2a2a"/>
+  <circle cx="40" cy="24" r="4" fill="#2a2a2a"/>
+  <circle cx="56" cy="24" r="4" fill="#2a2a2a"/>
+
+  <!-- Linha Divisória Central -->
+  <line x1="430" y1="40" x2="430" y2="220" class="divider"/>
+
+  <!-- ESQUERDA: O Perfil em Código -->
+  <g transform="translate(30, 70)">
+    <text x="0" y="0" class="code-num">1</text>
+    <text x="25" y="0" class="code-kw">const <tspan class="code-val">engineer</tspan> <tspan class="code-punct">=</tspan> <tspan class="code-punct">{</tspan></text>
+
+    <text x="0" y="28" class="code-num">2</text>
+    <text x="45" y="28" class="code-key">name<tspan class="code-punct">:</tspan> <tspan class="code-val">'Hélder Cruz'</tspan><tspan class="code-punct">,</tspan></text>
+
+    <text x="0" y="56" class="code-num">3</text>
+    <text x="45" y="56" class="code-key">role<tspan class="code-punct">:</tspan> <tspan class="code-val">'Software Engineer'</tspan><tspan class="code-punct">,</tspan></text>
+
+    <text x="0" y="84" class="code-num">4</text>
+    <text x="45" y="84" class="code-key">focus<tspan class="code-punct">:</tspan> <tspan class="code-punct">[</tspan><tspan class="code-val">'Architecture'</tspan><tspan class="code-punct">, </tspan><tspan class="code-val">'Clean Systems'</tspan><tspan class="code-punct">],</tspan></text>
+
+    <text x="0" y="112" class="code-num">5</text>
+    <text x="45" y="112" class="code-key">status<tspan class="code-punct">:</tspan> <tspan class="code-val">'Building'</tspan></text>
+
+    <text x="0" y="140" class="code-num">6</text>
+    <text x="25" y="140" class="code-punct">};<tspan class="code-val cursor">_</tspan></text>
+  </g>
+
+  <!-- DIREITA: Diagrama do Sistema -->
+  <!-- Linhas Físicas do Servidor -->
+  <path d="M 514 130 L 626 130" class="path-line"/>
+  <path d="M 674 130 L 730 130 L 730 85 L 774 85" class="path-line"/>
+  <path d="M 674 130 L 730 130 L 730 175 L 774 175" class="path-line"/>
+
+  <!-- Fluxo de Luz (Os Pacotes de Dados Animados) -->
+  <path d="M 514 130 L 626 130" class="packet p1"/>
+  <path d="M 674 130 L 730 130 L 730 85 L 774 85" class="packet p2"/>
+  <path d="M 674 130 L 730 130 L 730 175 L 774 175" class="packet p3"/>
+
+  <!-- NODO 1: CORE API (Centro) -->
+  <circle cx="650" cy="130" r="24" class="node-bg"/>
+  <circle cx="650" cy="130" r="30" class="node-ring"/>
+  <circle cx="650" cy="130" r="30" class="node-ring node-ring-delay"/>
+  <circle cx="650" cy="130" r="5" class="node-core"/>
+  <text x="650" y="172" class="label" text-anchor="middle">SYSTEM_CORE</text>
+
+  <!-- NODO 2: CLIENT (Esquerda) -->
+  <rect x="490" y="118" width="24" height="24" rx="6" class="node-bg"/>
+  <circle cx="502" cy="130" r="3" fill="#555"/>
+  <text x="502" y="160" class="label" text-anchor="middle">CLIENT</text>
+
+  <!-- NODO 3: DATABASE (Cima Direita) -->
+  <rect x="774" y="73" width="24" height="24" rx="6" class="node-bg"/>
+  <rect x="782" y="80" width="8" height="10" rx="1.5" fill="none" stroke="#555" stroke-width="1.5"/>
+  <line x1="782" y1="84" x2="790" y2="84" stroke="#555" stroke-width="1.5"/>
+  <text x="786" y="114" class="label" text-anchor="middle">DATABASE</text>
+
+  <!-- NODO 4: SERVICES (Baixo Direita) -->
+  <rect x="774" y="163" width="24" height="24" rx="6" class="node-bg"/>
+  <circle cx="781" cy="175" r="2" fill="#555"/>
+  <circle cx="791" cy="175" r="2" fill="#555"/>
+  <text x="786" y="204" class="label" text-anchor="middle">SERVICES</text>
+
+</svg>
