@@ -18,12 +18,6 @@
 
 <br>
 
-<div align="center">
-  <img src="./assets/engineering-banner.svg" alt="Animated engineering banner" width="900" />
-</div>
-
-<br>
-
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23888888" width="22" /> Engineering Focus
 
 I am a Computer Engineering graduate from Universidade do Minho, specializing in full-stack web development. My approach to software engineering goes beyond writing code: I prioritize architectural design before execution, human-driven functionality, and building highly reliable systems tailored for real-world constraints.
@@ -34,7 +28,7 @@ I am a Computer Engineering graduate from Universidade do Minho, specializing in
 
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 * **Backend & Data:** Node.js, PostgreSQL, Supabase, REST APIs
-* **Languages:** TypeScript, JavaScript, Python, C, C++, SQL
+* **Languages:** TypeScript, JavaScript, Python, Java, C, C++, SQL
 * **Infrastructure & Tools:** Git, Docker, Vercel, Cloudflare, Figma
 
 ---
