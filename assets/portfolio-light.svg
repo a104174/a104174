@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="258" viewBox="0 0 760 258" role="img" aria-label="Personal Portfolio: A carefully crafted portfolio with real project case studies and polished web interactions.">
+<rect x="1" y="1" width="758" height="256" rx="20" fill="#f8fbff" stroke="#d5e0ee" stroke-width="2"/>
+<rect x="1" y="39" width="5" height="180" rx="2" fill="#2563eb"/>
+<text x="32" y="49" fill="#2563eb" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.6">WEB ENGINEERING</text>
+<text x="32" y="99" fill="#152339" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="39" font-weight="700">Personal Portfolio</text>
+<text x="32" y="142" fill="#495b73" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">A carefully crafted portfolio with real project</text>
+<text x="32" y="171" fill="#495b73" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">case studies and polished web interactions.</text>
+<g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"><rect x="32" y="199" width="105" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="46" y="222" fill="#495b73" font-size="18" font-weight="500">Next.js</text><rect x="147" y="199" width="138" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="161" y="222" fill="#495b73" font-size="18" font-weight="500">TypeScript</text><rect x="295" y="199" width="160" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="309" y="222" fill="#495b73" font-size="18" font-weight="500">Tailwind CSS</text></g>
+<g stroke="#2563eb" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".8"><rect x="605" y="42" width="108" height="85" rx="12"/><path d="M605 64 H713"/><circle cx="620" cy="53" r="2.2" fill="#2563eb"/><circle cx="632" cy="53" r="2.2" fill="#2563eb"/><path d="M623 84 H658 M623 101 H684 M667 84 H693"/></g>
+</svg>

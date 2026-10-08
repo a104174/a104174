@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="258" viewBox="0 0 760 258" role="img" aria-label="NeuroFly: Connectome-inspired experiments and an interactive scientific viewer built around reproducible data.">
+<rect x="1" y="1" width="758" height="256" rx="20" fill="#f8fbff" stroke="#d5e0ee" stroke-width="2"/>
+<rect x="1" y="39" width="5" height="180" rx="2" fill="#2563eb"/>
+<text x="32" y="49" fill="#2563eb" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.6">RESEARCH &amp; VISUALIZATION</text>
+<text x="32" y="99" fill="#152339" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="39" font-weight="700">NeuroFly</text>
+<text x="32" y="142" fill="#495b73" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">Connectome-inspired experiments and an interactive</text>
+<text x="32" y="171" fill="#495b73" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">scientific viewer built around reproducible data.</text>
+<g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"><rect x="32" y="199" width="94" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="46" y="222" fill="#495b73" font-size="18" font-weight="500">Python</text><rect x="136" y="199" width="105" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="150" y="222" fill="#495b73" font-size="18" font-weight="500">FastAPI</text><rect x="251" y="199" width="215" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="265" y="222" fill="#495b73" font-size="18" font-weight="500">React Three Fiber</text></g>
+<g stroke="#2563eb" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".8"><path d="M619 69 L666 51 L705 81 L686 126 L633 125 L619 69 M666 51 L686 126 M619 69 L705 81 M633 125 L705 81"/><circle cx="619" cy="69" r="6" fill="#2563eb"/><circle cx="666" cy="51" r="7" fill="#2563eb"/><circle cx="705" cy="81" r="6" fill="#2563eb"/><circle cx="633" cy="125" r="6" fill="#2563eb"/><circle cx="686" cy="126" r="7" fill="#2563eb"/></g>
+</svg>

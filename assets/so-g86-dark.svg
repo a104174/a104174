@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="258" viewBox="0 0 760 258" role="img" aria-label="Document Indexing System: A concurrent C client-server system using FIFOs, document indexing, search and an LRU cache.">
+<rect x="1" y="1" width="758" height="256" rx="20" fill="#0d1420" stroke="#2c3b51" stroke-width="2"/>
+<rect x="1" y="39" width="5" height="180" rx="2" fill="#78acfa"/>
+<text x="32" y="49" fill="#78acfa" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.6">SYSTEMS PROGRAMMING</text>
+<text x="32" y="99" fill="#f4f7fc" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="35" font-weight="700">Document Indexing System</text>
+<text x="32" y="142" fill="#b8c6d7" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">A concurrent C client-server system using FIFOs,</text>
+<text x="32" y="171" fill="#b8c6d7" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">document indexing, search and an LRU cache.</text>
+<g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"><rect x="32" y="199" width="39" height="34" rx="9" fill="#192b44" stroke="#324763"/><text x="46" y="222" fill="#b8c6d7" font-size="18" font-weight="500">C</text><rect x="81" y="199" width="83" height="34" rx="9" fill="#192b44" stroke="#324763"/><text x="95" y="222" fill="#b8c6d7" font-size="18" font-weight="500">POSIX</text><rect x="174" y="199" width="72" height="34" rx="9" fill="#192b44" stroke="#324763"/><text x="188" y="222" fill="#b8c6d7" font-size="18" font-weight="500">Make</text></g>
+<g stroke="#78acfa" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".8"><rect x="600" y="46" width="111" height="81" rx="12"/><path d="m617 76 13 11-13 11 M639 100 h24"/></g>
+</svg>

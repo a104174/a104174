@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="258" viewBox="0 0 760 258" role="img" aria-label="Cosmic Bongo Blitz: A browser arcade game with enemy waves, boss fights and fast-paced gameplay.">
+<rect x="1" y="1" width="758" height="256" rx="20" fill="#f8fbff" stroke="#d5e0ee" stroke-width="2"/>
+<rect x="1" y="39" width="5" height="180" rx="2" fill="#2563eb"/>
+<text x="32" y="49" fill="#2563eb" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.6">GAME DEVELOPMENT</text>
+<text x="32" y="99" fill="#152339" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="39" font-weight="700">Cosmic Bongo Blitz</text>
+<text x="32" y="142" fill="#495b73" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">A browser arcade game with enemy waves,</text>
+<text x="32" y="171" fill="#495b73" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">boss fights and fast-paced gameplay.</text>
+<g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"><rect x="32" y="199" width="138" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="46" y="222" fill="#495b73" font-size="18" font-weight="500">JavaScript</text><rect x="180" y="199" width="72" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="194" y="222" fill="#495b73" font-size="18" font-weight="500">HTML</text><rect x="262" y="199" width="61" height="34" rx="9" fill="#e8f1fc" stroke="#d2e3f8"/><text x="276" y="222" fill="#495b73" font-size="18" font-weight="500">CSS</text></g>
+<g stroke="#2563eb" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".8"><path d="M625 58c-17 0-26 14-29 32l-5 19c-2 12 11 19 20 11l20-19h42l20 19c9 8 22 1 20-11l-5-19c-3-18-12-32-29-32z"/><path d="M616 84h23 M627.5 72.5v23 M682 83h1 M695 94h1"/><circle cx="682" cy="83" r="3" fill="#2563eb"/><circle cx="695" cy="94" r="3" fill="#2563eb"/></g>
+</svg>
